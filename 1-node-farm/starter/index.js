@@ -2,6 +2,7 @@ const fs = require('fs');
 const http = require('http');
 const url = require('url');
 
+//Checking Multi github accounts
 /////////////////////////////////////////////////////////////
 //Blockin, synchronous
 // const textIn = fs.readFileSync('./txt/input.txt', 'utf-8');
@@ -12,8 +13,6 @@ const url = require('url');
 
 // fs.writeFileSync('./txt/output.txt', textOut);
 // console.log('File Written');
-
-///again new checking multi github
 
 //// Server
 

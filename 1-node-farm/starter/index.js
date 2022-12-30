@@ -2,7 +2,7 @@ const fs = require('fs');
 const http = require('http');
 const url = require('url');
 
-//Checking Multi github accounts
+//Checking Multi github accounts in windows
 /////////////////////////////////////////////////////////////
 //Blockin, synchronous
 // const textIn = fs.readFileSync('./txt/input.txt', 'utf-8');
